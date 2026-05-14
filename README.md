@@ -1,6 +1,8 @@
-# LittleLemonCapstone
+# LittleLemonCapstone（Coursera course android final project）
 
 Android Jetpack Compose app for the Little Lemon capstone project.
+
+##This project is a restaurant ordering and delivery app. Users can register and log in to browse and search for dishes, and upon payment, they can wait for the restaurant to handle the delivery.
 
 ## How to run
 
